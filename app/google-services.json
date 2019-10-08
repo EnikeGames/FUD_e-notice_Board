@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "351371281647",
+    "firebase_url": "https://e-noticeboard-6d4df.firebaseio.com",
+    "project_id": "e-noticeboard-6d4df",
+    "storage_bucket": "e-noticeboard-6d4df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351371281647:android:ef791010dbdf38bd3a871a",
+        "android_client_info": {
+          "package_name": "com.example.e_noticeboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351371281647-5p03a14sj3om6uehelqj709a7vaj3i6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsoWzcNGEF_eU0G-r1iofiyQHDRTN5_e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351371281647-5p03a14sj3om6uehelqj709a7vaj3i6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
